@@ -10,12 +10,12 @@ snippets.cdn.mozilla.net:HSTS	0	17537	1546760419406,1,0,2
 addons.mozilla.org:HPKP	0	17537	1520407662778,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 accounts.firefox.com:HPKP	0	17537	1520407427730,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 services.addons.mozilla.org:HPKP	0	17537	1520407786175,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+versioncheck.addons.mozilla.org:HSTS	0	17537	1515224018499,1,0,2
 versioncheck-bg.addons.mozilla.org:HSTS	0	17537	1515224083563,1,0,2
-versioncheck.addons.mozilla.org:HPKP	0	17537	1520407718501,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 www.ixquick.com:HSTS	0	17537	1578296656540,1,1,2
 compose.mail.yahoo.com:HSTS	0	17537	1530775918233,1,0,2
 normandy-cloudfront.cdn.mozilla.net:HPKP	0	17537	1515309799067,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
-raw.githubusercontent.com:HSTS	0	17537	1546760470966,1,0,2
+raw.githubusercontent.com:HSTS	0	17537	1546761853510,1,0,2
 addons.mozilla.org:HSTS	0	17537	1546759662775,1,0,2
 versioncheck-bg.addons.mozilla.org:HPKP	0	17537	1520407783567,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 incoming.telemetry.mozilla.org:HSTS	0	17537	1530992603712,1,0,2
@@ -26,8 +26,8 @@ www.google.com:HSTS	0	17537	1515310173553,1,0,2
 normandy-cloudfront.cdn.mozilla.net:HSTS	0	17537	1546759399065,1,1,2
 www.google.de:HSTS	0	17537	1515228027105,1,0,2
 support.cdn.mozilla.net:HPKP	0	17537	1516519953817,1,0,r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=
-versioncheck.addons.mozilla.org:HSTS	0	17537	1515224018499,1,0,2
+versioncheck.addons.mozilla.org:HPKP	0	17537	1520407718501,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 normandy.cdn.mozilla.net:HPKP	0	17537	1515310543507,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
-publicsuffix.org:HSTS	0	17537	1530776229112,1,1,2
+publicsuffix.org:HSTS	0	17537	1530777974445,1,1,2
 www.eff.org:HSTS	0	17537	1546759393441,1,1,2
 normandy.cdn.mozilla.net:HSTS	0	17537	1546760143504,1,1,2
